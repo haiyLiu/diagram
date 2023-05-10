@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T01:41:11.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.2.9" etag="jXYtVSHetB-1sqOEE3_r" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T02:24:07.679Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="JbPAFvLA7_3N_36sLwZ-" version="21.2.9" type="github">
   <diagram name="第 1 页" id="RXfs9Kw9is2oKn4NK06r">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U5NzSXQE9Bz1XjXdMX_k-1" value="多模态信息抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U5NzSXQE9Bz1XjXdMX_k-3" value="多模态信息抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U5NzSXQE9Bz1XjXdMX_k-4" value="多模态命名实体识别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U5NzSXQE9Bz1XjXdMX_k-5" value="多模态信息抽取" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="290" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="U5NzSXQE9Bz1XjXdMX_k-6" value="从文本中识别实体，并为其添加相应的标注信息，即实体类型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="181" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
